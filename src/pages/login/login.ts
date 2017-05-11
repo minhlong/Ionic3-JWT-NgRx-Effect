@@ -66,7 +66,7 @@ export class LoginPage {
    *  - Kiểm tra các giá trị hợp lệ
    *    + Nếu không hợp lệ thì hiện lỗi trên giao diện
    *    + Nếu hợp lệ thì tiến hành gởi thông tin đăng nhập
-   *        Nếu thành công thì chuyển sang trang chủ (Middle ware sẽ làm việc này)
+   *        Nếu thành công thì cập nhật state, nhờ có selector(observable) nên khi state thay đổi thì app sẽ chuyển sang trang chủ (app.component.ts - loginSub)
    *        Nếu không thành công thì báo lỗi (thông qua authStoreService.getErrorMessage)
    */
   onLogin(form: NgForm) {
