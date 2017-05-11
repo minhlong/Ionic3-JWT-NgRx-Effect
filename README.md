@@ -1,7 +1,3 @@
-Bài này mình **không** đi vào chi tiết **Ionic** là gì, hoặc **JWT**, **NgRx/Store** và **NgRx/Effect** là gì ... nhưng là sẽ kết hợp những thứ này lại với nhau. Tuy nhiên, mình vẫn sẽ nói sơ qua về chúng và những vấn đề mình gặp phải cùng lý do tại sao mình lại phải dùng 3 thứ này.
-
-[Các bạn có thể click vào đây để xem trang mẫu (**Demo**)](http://namhoa.minhlong.me)
-[Và click vào đây để xem mã nguồn (**Source Code**) trên github](http://namhoa.minhlong.me)
 # Bài Toán
 Cách đây 2 năm mình có viết một trang website (CMS) để quản lý thông tin các bé sinh hoạt trong Nhà Thờ nơi mình ở, dựa trên **Laravel** và **AngularJs** (V1). [*(Các bạn có thể xem Demo và Source Code ở đây)*](https://github.com/minhlong/NamHoa-TNTTNamHoa)
 
