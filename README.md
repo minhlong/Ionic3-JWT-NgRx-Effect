@@ -1,3 +1,5 @@
+Ref: https://viblo.asia/minh.long/posts/924lJMr6ZPM
+
 # Bài Toán
 Cách đây 2 năm mình có viết một trang website (CMS) để quản lý thông tin các bé sinh hoạt trong Nhà Thờ nơi mình ở, dựa trên **Laravel** và **AngularJs** (V1). [*(Các bạn có thể xem Demo và Source Code ở đây)*](https://github.com/minhlong/NamHoa-TNTTNamHoa)
 
