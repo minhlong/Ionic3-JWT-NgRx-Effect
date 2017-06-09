@@ -10,15 +10,15 @@ Mình đã tìm thấy **Redux**, nàng ấy đã giúp mình quản lý state t
 ![Redux](https://raw.githubusercontent.com/minhlong/Ionic3-JWT-NgRx-Effect/master/doc/redux-article-3-03.png)
 
 Không chỉ vậy, hệ thống của bạn có thể chia ra nhiều state con (học viên, lớp học, ...) và định danh các action cho từng state
-![Redux-Action](https://cdn.css-tricks.com/wp-content/uploads/2016/03/redux-article-3-04.svg)
+![Redux-Action](https://raw.githubusercontent.com/minhlong/Ionic3-JWT-NgRx-Effect/master/doc/redux-article-3-04.png)
 
 Và do hệ thống của mình đang dùng Angular nên mình đã tìm thấy Redux cho Angular, ẻm là **NgRx/Store**. Bên cạnh đó, để việc quản lý store tốt hơn, và linh động hơn thì khái niệm **middleware** đã được áp dụng vào đây (Với Angular thì mình có **NgRx/Effect**)
 
 * Không có MiddleWare
-![without middleware](https://raw.githubusercontent.com/minhlong/Ionic3-JWT-NgRx-Effect/master/doc/withoutM.png)
+![without middleware](https://raw.githubusercontent.com/minhlong/Ionic3-JWT-NgRx-Effect/master/doc/withoutM.gif)
 
 * Có MiddleWare
-![middleware](https://camo.githubusercontent.com/9de527b9432cc9244dc600875b46b43311918b59/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6d656469612d702e736c69642e65732f75706c6f6164732f3336343831322f696d616765732f323438343739302f415243482d5265647578322d657874656e6465642d7265616c2d6465636c657261746976652e676966)
+![middleware](https://raw.githubusercontent.com/minhlong/Ionic3-JWT-NgRx-Effect/master/doc/withM.gif)
 
 
 # Coding - Ionic 3
