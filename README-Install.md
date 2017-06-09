@@ -8,3 +8,8 @@ npm install
 ```
 ionic serve --prod --release
 ```
+
+# Build
+```
+npm run build --prod
+```
