@@ -1,15 +1,10 @@
 # Install
 ```
-npm install -g ionic
+npm install -g cordova ionic
 npm install
 ```
 
 # Run
 ```
-ionic serve
-```
-
-# Build
-```
-ionic build --prod
+ionic serve --prod --release
 ```
