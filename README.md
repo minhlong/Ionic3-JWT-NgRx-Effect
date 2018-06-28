@@ -1,6 +1,6 @@
-Demo: http://namhoa.minhlong.me
+Please refer wiki page for more information
 
-Username: HT044 | Password: 123456
+Demo: https://minhlong.github.io/Ionic3-JWT-NgRx-Effect
 
 ![Screenshot](/screenshot.png?raw=true)
 
